@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<ModMetaData>
+	<name>Pulsefire Turret</name>
+	<author>Trunken</author>
+	<url></url>
+  <supportedVersions>
+    <li>1.0</li>
+  </supportedVersions>
+	<description>Adds a new maximum range security building to the game:
+
+&lt;b&gt;&lt;color=#01DFD7&gt;The Pulsefire Turret&lt;/color&gt;&lt;/b&gt;
+
+&lt;b&gt;Properties&lt;/b&gt;
+ - High precision
+ - Full Metal Jacket
+ - Slow reload
+ - 1x1
+
+&lt;b&gt;Requirements&lt;/b&gt;
+ - Technology "Pulsefire Turret"
+   (dependency: "Gun Turrets")
+ - Metal: 125
+ - Steel: 125
+ - Components: 8
+ - Power consumption: 400 W
+ 
+I'm still balancing this out. Let me know if its fine
+ 
+&lt;b&gt;Credits&lt;/b&gt;
+Based on Sniper Turret * by Sunny &amp; Kilroy232
+Sound Effect * by Marvin
+German Translation * by Endgegner
+
+**Patches "Sniper Turret" to same research when installed
+Meant to be comparable and suitable to each other
+</description>
+</ModMetaData>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Patch>
+  
+  <!-- Mod Support for Sniper Turret # One Research both Mods -->
+  <Operation Class="PatchOperationFindMod">
+	<mods>
+		<li>Sniper Turret</li>
+	</mods>
+	<match Class="PatchOperationSequence">
+		<success>Always</success>
+		<operations>
+			<!-- Other Way Around # PulsefireTurretGun into SniperTurret
+			<li Class="PatchOperationRemove">
+				<xpath>*/ResearchProjectDef[defName="PulsefireTurret"]</xpath>
+			</li> -->
+			<li Class="PatchOperationReplace">
+				<xpath>*/ThingDef[defName="SniperTurretGun"]/researchPrerequisites/li</xpath>
+				<value><li>PulsefireTech</li></value>
+			</li>
+			<!-- Bugfix -->
+			<li Class="PatchOperationReplace">
+				<xpath>*/ThingDef[defName="Gun_SniperTurret"]/verbs/li/range</xpath>
+				<value><range>52.4</range></value>
+			</li> 
+		</operations>
+	</match>
+  </Operation>
+
+</Patch>
