@@ -19,15 +19,15 @@ Adds a new maximum range security building to the game:
 I'm still balancing this out. Let me know if its fine
  
 <b>Credits</b>
-Based on Sniper Turret * by Sunny & Kilroy232
-Sound Effect * by Marvin
-German Translation * by Endgegner
+Based on Sniper Turret * by Sunny & Kilroy232<br>
+Sound Effect * by Marvin<br>
+German Translation * by Endgegner<br>
 
-*Patches "Sniper Turret" to same research when installed
-Meant to be comparable and suitable to each other
-*Update removed white edges on mip-mapping 
-*Update fixes "Sniper Turret" range when installed
-just setting the correct range limit, so the debug log gets clean 
+*Patches "Sniper Turret" to same research when installed<br>
+Meant to be comparable and suitable to each other<br>
+*Update removed white edges on mip-mapping <br>
+*Update fixes "Sniper Turret" range when installed<br>
+just setting the correct range limit, so the debug log gets clean<br>
 
 Details:
 30 DMG Full Metal Jacket bullets
