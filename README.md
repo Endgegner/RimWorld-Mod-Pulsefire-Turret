@@ -24,10 +24,10 @@ Sound Effect * by Marvin<br>
 German Translation * by Endgegner<br>
 
 *Patches "Sniper Turret" to same research when installed<br>
-Meant to be comparable and suitable to each other<br>
+ Meant to be comparable and suitable to each other<br>
 *Update removed white edges on mip-mapping <br>
 *Update fixes "Sniper Turret" range when installed<br>
-just setting the correct range limit, so the debug log gets clean<br>
+ just setting the correct range limit, so the debug log gets clean<br>
 
 Details:
 30 DMG Full Metal Jacket bullets
