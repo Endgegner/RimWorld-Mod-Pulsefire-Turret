@@ -30,7 +30,7 @@ German Translation * by Endgegner<br>
 *Update fixes "Sniper Turret" range when installed<br>
  just setting the correct range limit, so the debug log gets clean<br>
 
-Details:<br>
+<b>Details:</b><br>
 30 DMG Full Metal Jacket bullets<br>
 on 56 max. RANGE ingame<br>
 and 6 seconds CD<br>
