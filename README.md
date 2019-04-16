@@ -23,6 +23,7 @@ Based on Sniper Turret * by Sunny & Kilroy232<br>
 Sound Effect * by Marvin<br>
 German Translation * by Endgegner<br>
 
+<b>Changes:</b><br>
 *Patches "Sniper Turret" to same research when installed<br>
  Meant to be comparable and suitable to each other<br>
 *Update removed white edges on mip-mapping <br>
