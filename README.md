@@ -1,8 +1,6 @@
-The Pulsefire Turret [ENG/GER] - A security building for RimWorld (Mod)
-
 Adds a new maximum range security building to the game:
 
-<h1>The Pulsefire Turret</h1>
+<h1>The Pulsefire Turret [ENG/GER] - A security building for RimWorld (Mod)</h1>
 
 <b>Properties</b>
  - High precision
