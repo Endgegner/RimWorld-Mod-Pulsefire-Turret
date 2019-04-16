@@ -1,7 +1,7 @@
 Adds a new maximum range security building to the game:
 
-<h1>The Pulsefire Turret [ENG/GER] - A security building for RimWorld (Mod)</h1>
-
+<h1>The Pulsefire Turret [ENG/GER]</h1>
+ 
 <b>Properties</b>
  - High precision
  - Full Metal Jacket
