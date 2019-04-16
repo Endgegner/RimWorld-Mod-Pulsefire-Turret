@@ -18,7 +18,7 @@ Adds a new maximum range security building to the game:
  
 I'm still balancing this out. Let me know if its fine
  
-<b>Credits</b>
+<b>Credits:</b><br>
 Based on Sniper Turret * by Sunny & Kilroy232<br>
 Sound Effect * by Marvin<br>
 German Translation * by Endgegner<br>
