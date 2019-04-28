@@ -15,7 +15,7 @@ Adds a new maximum range security building to the game:
 
 <b>Requirements</b>
  - Technology "Pulsefire Turret"
-   (dependency: "Gun Turrets")
+   (dependency: "Multi Analyzer")
  - Metal: 125
  - Steel: 125
  - Components: 8
