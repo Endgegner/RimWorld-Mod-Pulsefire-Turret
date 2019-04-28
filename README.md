@@ -5,7 +5,7 @@ The Resistance Pulsefire Turret [ENG/GER] - A security building for RimWorld
 
 Adds a new maximum range security building to the game:
 
-###The Pulsefire Turret
+### The Pulsefire Turret
  
 <b>Properties</b>
  - High precision
