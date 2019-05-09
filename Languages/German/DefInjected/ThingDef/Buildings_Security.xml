@@ -1,14 +1,14 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <PulsefireTurretGun.label>Pulsfeuer Geschützturm</PulsefireTurretGun.label>
+  <PulsefireTurretGun.label>Pulsfeuer Geschütz</PulsefireTurretGun.label>
   <PulsefireTurretGun.description>Ein Geschützturm mit einem Pulsfeuer Präzisionsgewehr, welches automatisch gegnerische Ziele auf weite Entfernungen erfasst und ausschaltet. Kann bei Schaden explodieren.</PulsefireTurretGun.description>
-  <PulsefireTurretGun_Blueprint.label>Pulsfeuer Geschützturm (Entwurf)</PulsefireTurretGun_Blueprint.label>
-  <PulsefireTurretGun_Blueprint_Install.label>Pulsfeuer Geschützturm (Entwurf)</PulsefireTurretGun_Blueprint_Install.label>
-  <PulsefireTurretGun_Frame.label>Pulsfeuer Geschützturm (wird gebaut)</PulsefireTurretGun_Frame.label>
+  <PulsefireTurretGun_Blueprint.label>Pulsfeuer Geschütz (Entwurf)</PulsefireTurretGun_Blueprint.label>
+  <PulsefireTurretGun_Blueprint_Install.label>Pulsfeuer Geschütz (Entwurf)</PulsefireTurretGun_Blueprint_Install.label>
+  <PulsefireTurretGun_Frame.label>Pulsfeuer Geschütz(wird gebaut)</PulsefireTurretGun_Frame.label>
   <PulsefireTurretGun_Frame.description>Ein Geschützturm mit einem Pulsfeuer Präzisionsgewehr, welches automatisch gegnerische Ziele auf weite Entfernungen erfasst und ausschaltet. Kann bei Schaden explodieren.</PulsefireTurretGun_Frame.description>
   <Bullet_PulsefireTurret.label>Vollmantelgeschoss</Bullet_PulsefireTurret.label>
-  <Gun_PulsefireTurret.label>Pulsfeuer Geschützturm</Gun_PulsefireTurret.label>
+  <Gun_PulsefireTurret.label>Pulsfeuer Geschütz</Gun_PulsefireTurret.label>
   <Gun_PulsefireTurret.description>Maximale Reichweite, hochste Genauigkeit und satte Vollmantelgeschosse montiert auf einer automatischen Abwehranlage für militärische Außenposten. Der Standfuß trägt ein großes Präzisionsgewehr mit Pulsfeuer Technologie und Direktaufprall. Der Sicherheitsstandard.</Gun_PulsefireTurret.description>
 
 </LanguageData>

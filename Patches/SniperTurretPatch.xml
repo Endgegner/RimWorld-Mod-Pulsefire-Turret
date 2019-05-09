@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Patch>
+  
+  <!-- Mod Support for Sniper Turret -->
+  <Operation Class="PatchOperationFindMod">
+	<mods>
+		<li>Sniper Turret</li>
+	</mods>
+	<match Class="PatchOperationSequence">
+		<success>Always</success>
+		<operations>
+			<!-- Bugfix -->
+			<li Class="PatchOperationReplace">
+				<xpath>/Defs/ThingDef[defName="Gun_SniperTurret"]/verbs/li/range</xpath>
+				<value><range>52.4</range></value>
+			</li> 
+		</operations>
+	</match>
+  </Operation>
+
+</Patch>

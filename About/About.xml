@@ -19,20 +19,22 @@
 
 &lt;b&gt;Requirements&lt;/b&gt;
  - Technology "Pulsefire Turret"
-   (dependency: "Gun Turrets")
+   (last dependency: "Multy Analyzer")
  - Metal: 125
  - Steel: 125
  - Components: 8
  - Power consumption: 400 W
  
-I'm still balancing this out. Let me know if its fine
+&lt;b&gt;Compatibility&lt;/b&gt;
+ - [XND] Turret Extensions
+ - Combat Extended (.600 Nitro Express)
  
+Highend turret. Lategame content.
+&lt;i&gt;Devastating for everyone on hit with its target acquisition system.&lt;/i&gt;
+
 &lt;b&gt;Credits&lt;/b&gt;
 Based on Sniper Turret * by Sunny &amp; Kilroy232
 Sound Effect * by Marvin
 German Translation * by Endgegner
-
-**Patches "Sniper Turret" to same research when installed
-Meant to be comparable and suitable to each other
 </description>
 </ModMetaData>
