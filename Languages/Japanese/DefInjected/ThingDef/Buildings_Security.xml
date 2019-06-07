@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <PulsefireTurretGun.label>パルス タレット</PulsefireTurretGun.label>
+  <PulsefireTurretGun.description>パルスライフルが搭載された自動砲塔で、近距離と遠距離の敵に対して自動的に射撃を行います。ダメージを受けると爆発する可能性があります。</PulsefireTurretGun.description>
+  <Blueprint_PulsefireTurretGun.label>パルスタレット(設計)</Blueprint_PulsefireTurretGun.label>
+  <Blueprint_Install_PulsefireTurretGun.label>パルスタレット(移動先)</Blueprint_Install_PulsefireTurretGun.label>
+  <Frame_PulsefireTurretGun.label>パルスタレット(施行)</Frame_PulsefireTurretGun.label>
+  <Frame_PulsefireTurretGun.description>パルスライフルが搭載された自動砲塔で、近距離と遠距離の敵に対して自動的に射撃を行います。ダメージを受けると爆発する可能性があります。</Frame_PulsefireTurretGun.description>
+
+  <Bullet_PulsefireTurret.label>FMJ弾</Bullet_PulsefireTurret.label>
+
+  <Gun_PulsefireTurret.label>パルス タレット (狙撃)</Gun_PulsefireTurret.label>
+  <Gun_PulsefireTurret.description>前線基地などで使用される基地防衛用の軍用タレットです。パルス射撃技術が導入された衝撃物理狙撃ライフルが取り付けられています。自動砲塔に搭載され優秀な長距離射程と命中精度、そして完璧なフルメタルジャケット弾頭。</Gun_PulsefireTurret.description>
+  <Gun_PulsefireTurret.verbs.Verb_Shoot.label>パルスタレット(狙撃)</Gun_PulsefireTurret.verbs.Verb_Shoot.label>
+
+</LanguageData>

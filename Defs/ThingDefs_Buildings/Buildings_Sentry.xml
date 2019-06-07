@@ -2,8 +2,8 @@
 
 <Defs>
 	<ThingDef ParentName="BuildingBase">
-		<defName>PulsefireTurretGun</defName>
-		<label>Pulsefire Turret</label>
+		<defName>PulsefireTwinCannon</defName>
+		<label>Pulsefire Twin Cannon</label>
 		<thingClass>Building_TurretGun</thingClass>
 		<graphicData>
 			<texPath>Things/Building/Security/PulsefireTurretBase</texPath>
@@ -16,23 +16,23 @@
 		</graphicData>
 		<castEdgeShadows>true</castEdgeShadows>
 		<minifiedDef>MinifiedThing</minifiedDef>
-		<uiIconPath>Things/Building/Security/PulsefireTurretGun_Ico</uiIconPath>
+		<uiIconPath>Things/Building/Security/PulsefireTwinCannon</uiIconPath>
 		<altitudeLayer>Building</altitudeLayer>
 		<pathCost>50</pathCost>
 		<statBases>
-			<MaxHitPoints>175</MaxHitPoints>
+			<MaxHitPoints>225</MaxHitPoints>
 			<Flammability>0.25</Flammability>
-			<WorkToBuild>3000</WorkToBuild>
-			<Mass>120</Mass>
-			<Beauty>-15</Beauty>
-			<ShootingAccuracyTurret>0.94</ShootingAccuracyTurret>
+			<WorkToBuild>5000</WorkToBuild>
+			<Mass>150</Mass>
+			<Beauty>-10</Beauty>
+			<ShootingAccuracyTurret>0.85</ShootingAccuracyTurret>
 		</statBases>
 		<tickerType>Normal</tickerType>
 		<comps Inherit="False">
 			<li Class="CompProperties_Explosive">
-				<explosiveRadius>4</explosiveRadius>
+				<explosiveRadius>5</explosiveRadius>
 				<explosiveDamageType>Bomb</explosiveDamageType>
-				<chanceNeverExplodeFromDamage>0.8</chanceNeverExplodeFromDamage>
+				<chanceNeverExplodeFromDamage>0.7</chanceNeverExplodeFromDamage>
 			</li>
 			<li Class="CompProperties_Forbiddable"/>
 			<li Class="CompProperties_Power">
@@ -42,7 +42,7 @@
 			<li Class="CompProperties_Flickable"/>
 			<li Class="CompProperties_Breakdownable"/>
 		</comps>
-		<description>A turret with a sniper rifle on top that automtically fires at nearby and distant enemies. Has a chance to explode when damaged. Can be upgraded.\n\nBase defense Turret for military outposts. Has a direct impact rifle with Pulsefire technology attached to it. Maximum range, great accuracy and full metal jacket power mounted on an auto turret.</description>
+		<description>A turret with twin cannon on top that automtically fires at nearby and distant enemies. Has a chance to explode when damaged. Can be upgraded.\n\nBase defense Turret for military outposts. Has a twin cannon with Pulsefire technology attached to it, to double up its rapid firerate. Maximum range, good precision and armor piercing bullets mounted on an auto turret.</description>
 		<passability>PassThroughOnly</passability>
 		<fillPercent>0.4</fillPercent>
 		<hasTooltip>true</hasTooltip>
@@ -57,7 +57,7 @@
 			<Steel>125</Steel>
 			<ComponentIndustrial>8</ComponentIndustrial>
 		</costList>
-		<constructionSkillPrerequisite>5</constructionSkillPrerequisite>
+		<constructionSkillPrerequisite>8</constructionSkillPrerequisite>
 		<terrainAffordanceNeeded>Light</terrainAffordanceNeeded>
 		<designationCategory>Security</designationCategory>
 		<designationHotKey>Misc5</designationHotKey>
@@ -66,9 +66,9 @@
 		<rotatable>true</rotatable>
 		<building>
 			<ai_combatDangerous>true</ai_combatDangerous>
-			<turretGunDef>Gun_PulsefireTurret</turretGunDef>
+			<turretGunDef>Gun_PulsefireTwinCannon</turretGunDef>
 			<turretBurstCooldownTime>6.0</turretBurstCooldownTime>
-			<turretTopGraphicPath>Things/Building/Security/PulsefireTurretGun</turretTopGraphicPath>
+			<turretTopGraphicPath>Things/Building/Security/PulsefireTwinCannon</turretTopGraphicPath>
 		</building>
 		<placeWorkers>
 			<li>PlaceWorker_TurretTop</li>
@@ -79,25 +79,25 @@
 	</ThingDef>
 	
 	<ThingDef ParentName="BaseBullet">
-		<defName>Bullet_PulsefireTurret</defName>
-		<label>Full Metal Jacket Round</label>
+		<defName>Bullet_PulsefireTwinCannon</defName>
+		<label>Aerodynamic Whirlwind Bullet</label>
 		<graphicData>
-			<texPath>Things/Projectile/Bullet_Big</texPath>
+			<texPath>Things/Projectile/Bullet_Whirlwind</texPath>
 			<graphicClass>Graphic_Single</graphicClass>
 		</graphicData>
 		<projectile>
 			<damageDef>Bullet</damageDef>
-			<damageAmountBase>30</damageAmountBase>
-			<armorPenetrationBase>0.5</armorPenetrationBase>
-			<speed>100</speed>
+			<damageAmountBase>20</damageAmountBase>
+			<armorPenetrationBase>0.25</armorPenetrationBase>
+			<speed>90</speed>
 		</projectile>
 	</ThingDef>
 
 	<ThingDef ParentName="BaseHumanGun">
-		<defName>Gun_PulsefireTurret</defName>
-		<label>Pulsefire Turret</label>
+		<defName>Gun_PulsefireTwinCannon</defName>
+		<label>Pulsefire Twin Cannon</label>
 		<menuHidden>true</menuHidden>
-		<description>Pulsefire Sniper Rifle, Secret Technology.</description>
+		<description>Pulsefire Twin Cannon, Secret Technology.</description>
 		<graphicData>
 			<texPath>Things/Building/Security/PulsefireTurretBase</texPath>
 			<graphicClass>Graphic_Single</graphicClass>
@@ -106,12 +106,12 @@
 		<tradeability>None</tradeability>
 		<destroyOnDrop>true</destroyOnDrop>
 		<statBases>
-			<AccuracyTouch>1.00</AccuracyTouch>
-			<AccuracyShort>0.95</AccuracyShort>
-			<AccuracyMedium>0.90</AccuracyMedium>
-			<AccuracyLong>0.85</AccuracyLong>
+			<AccuracyTouch>0.81</AccuracyTouch>
+			<AccuracyShort>0.85</AccuracyShort>
+			<AccuracyMedium>0.93</AccuracyMedium>
+			<AccuracyLong>0.94</AccuracyLong>
 			<RangedWeapon_Cooldown>0.8</RangedWeapon_Cooldown>
-			<Mass>10</Mass>
+			<Mass>18</Mass>
 		</statBases>
 		<weaponTags>
 			<li>TurretGun</li>
@@ -120,13 +120,14 @@
 			<li>
 				<verbClass>Verb_Shoot</verbClass>
 				<hasStandardCommand>true</hasStandardCommand>
-				<defaultProjectile>Bullet_PulsefireTurret</defaultProjectile>
+				<defaultProjectile>Bullet_PulsefireTwinCannon</defaultProjectile>
 				<warmupTime>3.0</warmupTime>
 				<range>52.4</range>
-				<burstShotCount>1</burstShotCount>
-				<soundCast>PulsefireTurretRound</soundCast>
+				<ticksBetweenBurstShots>2</ticksBetweenBurstShots>
+				<burstShotCount>12</burstShotCount>
+				<soundCast>Shot_TurretSniper</soundCast>
 				<soundCastTail>GunTail_Light</soundCastTail>
-				<muzzleFlashScale>20</muzzleFlashScale>
+				<muzzleFlashScale>18</muzzleFlashScale>
 			</li>
 		</verbs>
 	</ThingDef>

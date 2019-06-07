@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
-
 <Defs>
+
 	<ResearchProjectDef>
 		<defName>PulsefireTech</defName>
 		<label>Pulsefire technology</label>
@@ -11,6 +11,7 @@
 			<li>MultiAnalyzer</li>
 		</prerequisites>
 		<researchViewX>13</researchViewX>
-		<researchViewY>5</researchViewY>
+		<researchViewY>5.3</researchViewY>
 	</ResearchProjectDef>
+
 </Defs>

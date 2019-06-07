@@ -1,19 +1,19 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 
 <ModMetaData>
-	<name>Pulsefire Turret</name>
-	<author>Trunken</author>
-	<url></url>
+  <name>Pulsefire Turret</name>
+  <author>Trunken</author>
+  <url></url>
   <supportedVersions>
     <li>1.0</li>
   </supportedVersions>
-	<description>Adds a new maximum range security building to the game:
+  <description>Adds 2 new maximum range security buildings to the game:
 
-&lt;b&gt;&lt;color=#01DFD7&gt;The Pulsefire Turret&lt;/color&gt;&lt;/b&gt;
+&lt;b&gt;&lt;color=#01DFD7&gt;The Pulsefire Turret &amp; Twin Cannon&lt;/color&gt;&lt;/b&gt;
 
 &lt;b&gt;Properties&lt;/b&gt;
  - High precision
- - Full Metal Jacket
+ - Full Metal Jacket / Whirlwind
  - Slow reload
  - 1x1
 
@@ -26,15 +26,16 @@
  - Power consumption: 400 W
  
 &lt;b&gt;Compatibility&lt;/b&gt;
- - [XND] Turret Extensions
- - Combat Extended (.600 Nitro Express)
- 
+ - [XND] Turret Extensions (New Upgrades)
+ - Combat Extended (.600 Nitro Express &amp; High caliber subsonic 127x55mm)
+
 Highend turret. Lategame content.
 &lt;i&gt;Devastating for everyone on hit with its target acquisition system.&lt;/i&gt;
 
 &lt;b&gt;Credits&lt;/b&gt;
-Based on Sniper Turret * by Sunny &amp; Kilroy232
+Inspired * by Sunny &amp; Kilroy232
 Sound Effect * by Marvin
+Japanese Translation * by Proxyer
 German Translation * by Endgegner
-</description>
+  </description>
 </ModMetaData>

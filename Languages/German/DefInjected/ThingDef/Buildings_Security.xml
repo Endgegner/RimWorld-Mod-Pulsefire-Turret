@@ -2,13 +2,28 @@
 <LanguageData>
 
   <PulsefireTurretGun.label>Pulsfeuer Geschütz</PulsefireTurretGun.label>
-  <PulsefireTurretGun.description>Ein Geschützturm mit einem Pulsfeuer Präzisionsgewehr, welches automatisch gegnerische Ziele auf weite Entfernungen erfasst und ausschaltet. Kann bei Schaden explodieren.</PulsefireTurretGun.description>
+  <PulsefireTurretGun.description>Ein Geschützturm mit einem Pulsfeuer Präzisionsgewehr, welches automatisch gegnerische Ziele auf weite Entfernungen erfasst und ausschaltet. Kann bei Schaden explodieren.\n\nMaximale Reichweite, hochste Genauigkeit und satte Vollmantelgeschosse montiert auf einer automatischen Abwehranlage für militärische Außenposten. Der Standfuß trägt ein großes Präzisionsgewehr mit Pulsfeuer Technologie und Direktaufprall. Kann erweitert werden.</PulsefireTurretGun.description>
   <PulsefireTurretGun_Blueprint.label>Pulsfeuer Geschütz (Entwurf)</PulsefireTurretGun_Blueprint.label>
   <PulsefireTurretGun_Blueprint_Install.label>Pulsfeuer Geschütz (Entwurf)</PulsefireTurretGun_Blueprint_Install.label>
-  <PulsefireTurretGun_Frame.label>Pulsfeuer Geschütz(wird gebaut)</PulsefireTurretGun_Frame.label>
+  <PulsefireTurretGun_Frame.label>Pulsfeuer Geschütz (wird gebaut)</PulsefireTurretGun_Frame.label>
   <PulsefireTurretGun_Frame.description>Ein Geschützturm mit einem Pulsfeuer Präzisionsgewehr, welches automatisch gegnerische Ziele auf weite Entfernungen erfasst und ausschaltet. Kann bei Schaden explodieren.</PulsefireTurretGun_Frame.description>
   <Bullet_PulsefireTurret.label>Vollmantelgeschoss</Bullet_PulsefireTurret.label>
   <Gun_PulsefireTurret.label>Pulsfeuer Geschütz</Gun_PulsefireTurret.label>
-  <Gun_PulsefireTurret.description>Maximale Reichweite, hochste Genauigkeit und satte Vollmantelgeschosse montiert auf einer automatischen Abwehranlage für militärische Außenposten. Der Standfuß trägt ein großes Präzisionsgewehr mit Pulsfeuer Technologie und Direktaufprall. Der Sicherheitsstandard.</Gun_PulsefireTurret.description>
+  <Gun_PulsefireTurret.description>Maximale Reichweite, hochste Genauigkeit und satte Vollmantelgeschosse.</Gun_PulsefireTurret.description>
+
+  <PulsefireTurretGun.comps.CompUpgradable.upgradedTurretDescription>Ein Geschützturm mit einem Pulsfeuer Präzisionsgewehr, welches automatisch gegnerische Ziele auf weite Entfernungen erfasst und ausschaltet. Kann bei Schaden explodieren.\n\nMaximale Reichweite, hochste Genauigkeit und satte Vollmantelgeschosse montiert auf einer automatischen Abwehranlage für militärische Außenposten. Der Standfuß trägt ein großes Präzisionsgewehr mit Pulsfeuer Technologie und Direktaufprall. Wurde mit einem speziellen Zielerfassungssystem erweitert.</PulsefireTurretGun.comps.CompUpgradable.upgradedTurretDescription>
+  
+
+  <PulsefireTwinCannon.label>Pulsfeuer Zwillingskanone</PulsefireTwinCannon.label>
+  <PulsefireTwinCannon.description>Ein Geschützturm mit einer Pulsfeuer Zwillingskanone, welche automatisch gegnerische Ziele auf weite Entfernungen erfasst und ausschaltet. Kann bei Schaden explodieren.\n\nMaximale Reichweite, überzeugende Präzision und Wirbelwindgeschosse montiert auf einer automatischen Abwehranlage für militärische Außenposten. Der Standfuß trägt ein große Zwillingskanone mit Pulsfeuer Technologie, der durch einen rotierenden Motor gefüttert wird. Kann erweitert werden.</PulsefireTwinCannon.description>
+  <PulsefireTwinCannon_Blueprint.label>Pulsfeuer Zwillingskanone (Entwurf)</PulsefireTwinCannon_Blueprint.label>
+  <PulsefireTwinCannon_Blueprint_Install.label>Pulsfeuer Zwillingskanone (Entwurf)</PulsefireTwinCannon_Blueprint_Install.label>
+  <PulsefireTwinCannon_Frame.label>Pulsfeuer Zwillingskanone (wird gebaut)</PulsefireTwinCannon_Frame.label>
+  <PulsefireTwinCannon_Frame.description>Ein Geschützturm mit einer Pulsfeuer Zwillingskanone, welche automatisch gegnerische Ziele auf weite Entfernungen erfasst und ausschaltet. Kann bei Schaden explodieren.</PulsefireTwinCannon_Frame.description>
+  <Bullet_PulsefireTwinCannon.label>Wirbelwindgeschoss</Bullet_PulsefireTwinCannon.label>
+  <Gun_PulsefireTwinCannon.label>Pulsfeuer Zwillingskanone</Gun_PulsefireTwinCannon.label>
+  <Gun_PulsefireTwinCannon.description>Maximale Reichweite, überzeugende Präzision und Wirbelwindgeschosse.</Gun_PulsefireTwinCannon.description>
+
+  <PulsefireTwinCannon.comps.CompUpgradable.upgradedTurretDescription>Ein Geschützturm mit einer Pulsfeuer Zwillingskanone, welche automatisch gegnerische Ziele auf weite Entfernungen erfasst und ausschaltet. Kann bei Schaden explodieren.\n\nMaximale Reichweite, überzeugende Präzision und Wirbelwindgeschosse montiert auf einer automatischen Abwehranlage für militärische Außenposten. Der Standfuß trägt ein große Zwillingskanone mit Pulsfeuer Technologie, der durch einen rotierenden Motor gefüttert wird. Wurde mit einem Hydraulik Turbo Motor ausgestattet.</PulsefireTwinCannon.comps.CompUpgradable.upgradedTurretDescription>
 
 </LanguageData>

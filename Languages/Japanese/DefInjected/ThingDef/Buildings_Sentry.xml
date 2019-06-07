@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <PulsefireTwinCannon.label>二連装パルス キャノン</PulsefireTwinCannon.label>
+  <PulsefireTwinCannon.description>近距離から遠距離まで幅広い射程内の敵を自動的に射撃します。砲塔に二連装のパルスキャノンが装備されています。破壊される時に爆発する可能性があります。アップグレードが可能です。\n\n前線基地などで使用される基地防衛用の軍用タレットです。パルスタレット技術によって開発された二連装キャノンを使用しているため、射撃速度が高速で通常の2倍になります。自動化されたタレットに装備され、空力学的にデザインされた超長距離射程と高精度な命中率、そして装甲を貫通する螺旋形状の弾頭を使用します。</PulsefireTwinCannon.description>
+  <Blueprint_PulsefireTwinCannon.label>二連装パルスキャノン(設計)</Blueprint_PulsefireTwinCannon.label>
+  <Blueprint_Install_PulsefireTwinCannon.label>二連装パルスキャノン(移動先)</Blueprint_Install_PulsefireTwinCannon.label>
+  <Frame_PulsefireTwinCannon.label>二連装パルスキャノン(施行)</Frame_PulsefireTwinCannon.label>
+  <Frame_PulsefireTwinCannon.description>近距離から遠距離まで幅広い射程内の敵を自動的に射撃します。砲塔に二連装のパルスキャノンが装備されています。破壊される時に爆発する可能性があります。アップグレードが可能です。\n\n前線基地などで使用される基地防衛用の軍用タレットです。パルスタレット技術によって開発された二連装キャノンを使用しているため、射撃速度が高速で通常の2倍になります。自動化されたタレットに装備され、空力学的にデザインされた超長距離射程と高精度な命中率、そして装甲を貫通する螺旋形状の弾頭を使用します。</Frame_PulsefireTwinCannon.description>
+
+  <Bullet_PulsefireTwinCannon.label>空力螺旋弾頭</Bullet_PulsefireTwinCannon.label>
+
+  <Gun_PulsefireTwinCannon.label>二連装パルス キャノン</Gun_PulsefireTwinCannon.label>
+  <Gun_PulsefireTwinCannon.description>二連装のパルスキャノンで、軍事機密です。</Gun_PulsefireTwinCannon.description>
+
+</LanguageData>
