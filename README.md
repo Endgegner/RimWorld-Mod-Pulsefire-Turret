@@ -34,7 +34,7 @@ just setting the correct range limit, so the debug log gets clean<br>
 
 <i>Devastating for everyone on hit with its target acquisition system.</i>
 
-<b]Details: Sniper Turret</b>
+<b>Details: Sniper Turret</b>
 30 DMG Full Metal Jacket bullets (.600 Nitro Express)
 on 56 max. RANGE ingame
 and 6 seconds CD
